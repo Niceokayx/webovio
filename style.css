@@ -1,0 +1,335 @@
+body {
+    margin: 0px;
+}
+
+.heder {
+    background-image: url("img/Bitmap.png");
+    background-size: 100%;
+    height: 1400px;
+    font-family: cursive;
+}
+
+
+.head_menu {
+    display: flex;
+    font-size: 100px;
+    font-weight: 500;
+    color: white;
+    z-index: auto;
+    font-family: Poppins;
+}
+
+
+.menu {
+    position: relative;
+    margin-left: auto;
+    margin-right: 200px;
+    margin-top: 50px;
+
+
+}
+
+.menu img {
+    height: 100px;
+    width: 100px;
+}
+
+.webovio_menu {
+    display: flex;
+    margin-left: 200px;
+    margin-bottom: 150px;
+    margin-top: 30px;
+}
+
+.logo img {
+    height: 70px;
+    width: 100px;
+}
+
+
+.description {
+    margin-left: 200px;
+}
+
+.place {
+    color: white;
+    font-size: 40px;
+    margin-bottom: 50px;
+    font-family: Poppins;
+}
+
+
+.creative {
+    color: white;
+    font-size: 150px;
+    margin-bottom: 50px;
+    line-height: 1;
+    font-family: Poppins;
+}
+
+.antello {
+    color: white;
+    font-size: 40px;
+    margin-bottom: 50px;
+    font-family: Poppins;
+}
+
+.get {
+    color: #FFD723;
+    font-size: 30px;
+    font-family: Poppins;
+    text-decoration: underline;
+}
+
+
+.label {
+    display: flex;
+    z-index: 1;
+    position: relative;
+    margin: -170px 0px 0px 0px;
+    background-color: white;
+    width: 85%;
+    margin-left: auto;
+    padding: 100px 100px 100px 100px;
+    filter: drop-shadow(20px 20px 80px #10101169)
+}
+
+.label img {
+    width: 300px;
+    height: 250px;
+}
+
+.andrew {
+    margin-left: 70px;
+    margin-right: 50px;
+}
+
+.leadership {
+    margin-left: 70px;
+    margin-right: 50px;
+}
+
+.walbrige {
+    margin-left: 70px;
+    margin-right: 50px;
+}
+
+.ideal {
+    margin-left: 70px;
+    margin-right: 50px;
+}
+
+.phalen {
+    margin-left: 70px;
+    margin-right: 50px;
+}
+
+
+.content_one {
+    margin-left: auto;
+    width: 91%;
+}
+
+.general {
+    display: flex;
+    margin-top: 100px;
+}
+
+.what_me {
+    color: black;
+    font-size: 30px;
+    font-family: Poppins;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.Strategy {
+    font-size: 70px;
+    font-weight: 700;
+    font-family: Poppins;
+}
+
+.no_secret {
+    font-size: 40px;
+    margin-top: 50px;
+    font-family: Poppins;
+}
+
+
+.more {
+    font-size: 30px;
+    text-decoration: underline;
+    color: rgba(0, 0, 0, 0.288);
+    margin-top: 50px;
+    font-family: Poppins;
+}
+
+.foto_text_one {
+    margin: -115px 0px 0px 1350px;
+    background: white;
+    filter: drop-shadow(20px 20px 80px #10101169);
+    padding: 150px 70px 100px 70px;
+    z-index: auto;
+}
+
+.biography {
+    font-size: 50px;
+    margin-bottom: 100px;
+    font-family: Poppins;
+    font-style: italic;
+
+}
+
+
+.foto_Rodriquez {
+    display: flex;
+
+}
+
+.foto_Genevieve {
+    margin: -55px;
+}
+
+.foto_Genevieve img {
+    height: 400px;
+    width: 400px;
+}
+
+.first_name {
+    margin: 25px 0px 0px 0px;
+}
+
+.Genevieve {
+    font-size: 45px;
+    font-weight: 700;
+    font-family: Poppins;
+}
+
+.profession {
+    font-size: 30px;
+    margin-top: 20px;
+    font-family: Poppins;
+}
+
+
+
+
+.content_one_end {
+
+    width: 80%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+
+
+.Awesome_description {
+    display: flex;
+    width: 91%;
+    margin-left: auto;
+    margin-top: 100px;
+}
+
+
+.Awesome {
+    font-size: 70px;
+    font-weight: 700;
+    font-family: Poppins;
+    margin-right: 500px;
+}
+
+.lorem {
+    font-size: 40px;
+    margin-top: 25px;
+    font-family: Poppins;
+    color: rgba(33, 56, 66, 0.6);
+    font-style: normal;
+}
+
+.Balenciaga_description {
+    margin-top: 200px;
+    display: flex;
+}
+
+
+
+.Balenciaga_picture img {
+    height: 900px;
+    width: 1050px;
+
+}
+
+.Balenciaga_all_text {
+    margin: 200px 0px 0px 1200px;
+}
+
+.Balenciaga {
+    font-size: 70px;
+    font-weight: 700;
+    font-family: Poppins;
+    margin-bottom: 100px;
+}
+
+.Balenciaga_text1 {
+    font-size: 40px;
+    color: rgba(33, 56, 66, 0.6);
+    font-family: Poppins;
+    margin-bottom: 50px;
+}
+
+.Balenciaga_text2 {
+    font-size: 40px;
+    color: rgba(33, 56, 66, 0.6);
+    font-family: Poppins;
+    margin-bottom: 100px;
+}
+
+
+.see_case {
+    font-size: 30px;
+    font-family: Poppins;
+    color: rgba(212, 214, 212, 1);
+}
+
+.Angel_Armstrong {
+    margin: -120px -62px -124px 500px;
+    background: white;
+    filter: drop-shadow(20px 20px 80px #10101169);
+    padding: 50px 1px 1px 81px;
+    z-index: auto;
+    border-radius: 30px;
+    width: 25%;
+    height: 500px;
+}
+
+
+.angel_story {
+    font-size: 40px;
+    color: rgba(77, 83, 60, 1);
+    font-family: Poppins;
+    margin-bottom: 50px;
+}
+
+.foto_name_angel {
+    display: flex;
+
+}
+
+.foto_angel img {
+    height: 400px;
+    width: 400px;
+}
+
+ .name_profession {
+    margin: 70px 0px 0px -100px;
+ }
+
+.name_angel {
+    font-size: 45px;
+    font-weight: 700;
+    font-family: Poppins;    
+}
+
+.profession_angel {
+    font-size: 30px;
+    font-family: Poppins;
+}
