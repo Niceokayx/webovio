@@ -319,17 +319,68 @@ body {
     width: 400px;
 }
 
- .name_profession {
+.name_profession {
     margin: 70px 0px 0px -100px;
- }
+}
 
 .name_angel {
     font-size: 45px;
     font-weight: 700;
-    font-family: Poppins;    
+    font-family: Poppins;
 }
 
 .profession_angel {
     font-size: 30px;
     font-family: Poppins;
+}
+
+
+.content_three {
+    margin-top: 5%;
+    font-family: Poppins;
+}
+
+.d_description {
+    display: flex;
+    justify-content: right;
+}
+
+
+.d_content {
+    margin-right: 40%;
+    margin-top: 5%;
+}
+
+.d_model {
+    font-size: 70px;
+    font-weight: 700;
+
+    margin-bottom: 100px;
+}
+
+
+
+.d_text_one {
+    font-size: 40px;
+    color: rgba(33, 56, 66, 0.6);
+    font-family: Poppins;
+    margin-bottom: 50px;
+}
+
+.d_text_two {
+    font-size: 40px;
+    color: rgba(33, 56, 66, 0.6);
+    font-family: Poppins;
+    margin-bottom: 50px;
+}
+
+.see_case_one {
+    font-size: 30px;
+    font-family: Poppins;
+    color: rgba(212, 214, 212, 1);
+}
+
+.foto_3d img {
+    height: 900px;
+    width: 1050px;
 }
