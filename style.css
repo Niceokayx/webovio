@@ -384,3 +384,432 @@ body {
     height: 900px;
     width: 1050px;
 }
+
+
+.lina_hart {
+    margin: -340px -75px -154px 2150px;
+    background: white;
+    filter: drop-shadow(20px 20px 80px #10101169);
+    padding: 50px 1px 1px 81px;
+    z-index: auto;
+    border-radius: 30px;
+    width: 25%;
+    height: 500px;
+}
+
+
+.lina_story {
+    font-size: 40px;
+    color: rgba(77, 83, 60, 1);
+    font-family: Poppins;
+    margin-bottom: 50px;
+}
+
+.foto_name_lina {
+    display: flex;
+
+}
+
+.foto_lina img {
+    height: 400px;
+    width: 400px;
+}
+
+.lina_profession {
+    margin: 70px 0px 0px -100px;
+}
+
+.name_lina {
+    font-size: 45px;
+    font-weight: 700;
+    font-family: Poppins;
+}
+
+.profession_lina {
+    font-size: 30px;
+    font-family: Poppins;
+}
+
+
+.Awesome_description {
+    display: flex;
+    width: 91%;
+    margin-left: auto;
+    margin-top: 100px;
+}
+
+
+.Awesome {
+    font-size: 70px;
+    font-weight: 700;
+    font-family: Poppins;
+    margin-right: 500px;
+}
+
+.lorem {
+    font-size: 40px;
+    margin-top: 25px;
+    font-family: Poppins;
+    color: rgba(33, 56, 66, 0.6);
+    font-style: normal;
+}
+
+.Balenciaga_description {
+    margin-top: 200px;
+    display: flex;
+}
+
+
+
+.Balenciaga_picture img {
+    height: 900px;
+    width: 1050px;
+
+}
+
+.Balenciaga_all_text {
+    margin: 200px 0px 0px 1200px;
+}
+
+.Balenciaga {
+    font-size: 70px;
+    font-weight: 700;
+    font-family: Poppins;
+    margin-bottom: 100px;
+}
+
+.Balenciaga_text1 {
+    font-size: 40px;
+    color: rgba(33, 56, 66, 0.6);
+    font-family: Poppins;
+    margin-bottom: 50px;
+}
+
+.Balenciaga_text2 {
+    font-size: 40px;
+    color: rgba(33, 56, 66, 0.6);
+    font-family: Poppins;
+    margin-bottom: 100px;
+}
+
+
+.see_case {
+    font-size: 30px;
+    font-family: Poppins;
+    color: rgba(212, 214, 212, 1);
+}
+
+.online_description {
+    margin-top: 200px;
+    display: flex;
+}
+
+
+
+.online_picture img {
+    height: 900px;
+    width: 1050px;
+
+}
+
+.online_all_text {
+    margin: 200px 0px 0px 1200px;
+}
+
+.online {
+    font-size: 70px;
+    font-weight: 700;
+    font-family: Poppins;
+    margin-bottom: 100px;
+}
+
+.online_text1 {
+    font-size: 40px;
+    color: rgba(33, 56, 66, 0.6);
+    font-family: Poppins;
+    margin-bottom: 50px;
+}
+
+.online_text2 {
+    font-size: 40px;
+    color: rgba(33, 56, 66, 0.6);
+    font-family: Poppins;
+    margin-bottom: 100px;
+}
+
+
+.see_case {
+    font-size: 30px;
+    font-family: Poppins;
+    color: rgba(212, 214, 212, 1);
+}
+
+.Eunice_Oliver {
+    margin: -120px -62px -124px 500px;
+    background: white;
+    filter: drop-shadow(20px 20px 80px #10101169);
+    padding: 50px 1px 1px 81px;
+    z-index: auto;
+    border-radius: 30px;
+    width: 25%;
+    height: 500px;
+}
+
+
+.Oliver_story {
+    font-size: 40px;
+    color: rgba(77, 83, 60, 1);
+    font-family: Poppins;
+    margin-bottom: 50px;
+}
+
+.foto_name_Oliver {
+    display: flex;
+
+}
+
+.foto_Oliver img {
+    height: 400px;
+    width: 400px;
+}
+
+.name_profession {
+    margin: 70px 0px 0px -100px;
+}
+
+.name_Oliver {
+    font-size: 45px;
+    font-weight: 700;
+    font-family: Poppins;
+}
+
+.profession_Oliver {
+    font-size: 30px;
+    font-family: Poppins;
+}
+
+.Deation_Evaluation {
+    font-size: 70px;
+    font-weight: 700;
+    margin-bottom: 10%;
+    justify-content: center;
+    position: relative;
+    margin-left: 10%;
+}
+
+
+.content_two_end {
+    width: 80%;
+    margin-top: 20%;
+    margin-bottom: 10%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content_five {
+    margin-bottom: 15%;
+    z-index: auto;
+}
+
+.contentEvaluation {
+    display: flex;
+    font-family: 'Poppins';
+    justify-content: center;
+}
+
+.Product {
+    margin-left: 10%;
+}
+
+.name_Evaluation {
+    font-size: 50px;
+    margin-bottom: 10%;
+
+}
+
+.text_Evaluation {
+    font-size: 30px;
+    color: rgba(33, 56, 66, 0.6);
+    margin-bottom: 20%;
+}
+
+
+.text_Evaluation1 {
+    font-size: 30px;
+    color: rgba(33, 56, 66, 0.6);
+    margin-bottom: 30%;
+    font-weight: 700;
+}
+
+.content_six {
+    z-index: 2;
+    position: relative;
+}
+
+.make_something {
+    font-family: Poppins;
+    background-color: rgba(250, 250, 250, 1);
+    width: 80%;
+    padding: 100px 0px 80px 0px;
+}
+
+
+.amazing {
+    font-size: 90px;
+    font-weight: 700;
+    margin-bottom: 5%;
+    margin-left: 20%;
+}
+
+.get_started {
+    font-size: 20px;
+    color: rgba(212, 214, 212, 1);
+    margin-left: 20%;
+}
+
+
+.content_seven {
+    background-image: url(img/Bg.png);     
+    margin-top: -8%;
+}
+
+
+.phone_address {
+    display: flex;
+    font-size: 30px;
+    margin-left: 16%;
+    padding-top: 10%;
+    margin-bottom: 5%;
+
+}
+
+.phone {
+    margin-right: 10%;
+}
+
+
+.phone_text {
+    margin-bottom: 40%;
+    color: rgba(182, 193, 151, 1);
+
+}
+
+.phone_number {
+    color: white;
+}
+
+.name_address {
+    margin-bottom: 25%;
+    color: rgba(182, 193, 151, 1);
+
+}
+
+.address_number {
+    color: white;
+}
+
+.content_seven_end {
+    width: 85%;
+    margin: auto;
+    color: #5D6544;
+}
+
+
+.content_eight {
+    margin-top: 5%;
+}
+
+.Services_content {
+    display: flex;
+    font-size: 30px;
+    width: 90%;
+    justify-content: center;
+}
+
+.content_serv {
+    margin-left: 17%;
+   
+}
+
+
+.name_Services {
+    color: white;
+    margin-bottom: 35%;
+}
+
+.text_content_eight {
+    color:     rgba(182, 193, 151, 1);
+    margin-top: 10%;
+}
+
+.Feel {
+    color:     rgba(182, 193, 151, 1);
+    margin-top: -25%;
+}
+
+.email {
+    color: white;
+    font-size: 45px;
+    font-weight: 700;
+    margin-top: 10%;
+}
+
+.social_networks {
+    margin-top: 10%;
+}
+
+.social_networks img {
+    width: 420px;
+    height: 80px;
+}
+
+
+.content_eight_end {
+    width: 85%;
+    margin: auto;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+
+.content_end {
+   display: flex;
+   margin: auto;
+   width: 70%;
+   justify-content: center;
+   padding-bottom: 5%;
+    
+
+}
+
+.webovio {
+    display: flex;
+    
+}
+
+.picture_webovio{
+    
+    margin-top: 4%;
+}
+
+.picture_webovio img {
+    height: 40px;
+    width: 70px;
+   
+}
+
+
+.text_webovio {
+    font-size: 60px;
+    font-weight: 700;
+    color: white;
+   
+    
+}
+
+
+.data {
+    color: rgba(182, 193, 151, 1);
+    margin-left: auto;    
+    font-size: 30px;
+}
